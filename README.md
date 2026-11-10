@@ -1,6 +1,6 @@
 # Ruipeng LU · 盧瑞鵬
 
-**English** · [繁體中文](#繁體中文) · [Maintenance / 維護清單](MAINTENANCE.md)
+**English** · [繁體中文](#繁體中文) · [Maintenance / 維護清單](MAINTENANCE.md) · [Q&A / 問答](https://github.com/lzhs1995/multi-agent-collaboration/discussions)
 
 PhD student in Gerontology at **Renmin University of China**.
 
