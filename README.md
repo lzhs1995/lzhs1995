@@ -1,6 +1,6 @@
 # Ruipeng LU · 盧瑞鵬
 
-**English** · [繁體中文](#繁體中文)
+**English** · [繁體中文](#繁體中文) · [Maintenance / 維護清單](MAINTENANCE.md)
 
 PhD student in Gerontology at **Renmin University of China**.
 
@@ -27,9 +27,7 @@ Each has its own role and version; the preview runs separately from the current 
 
 ## Methods and projects
 
-<!-- METHODS_EN -->
-Mplus methods notes for mediation, moderation and latent transition analysis are being organized for public release.
-<!-- /METHODS_EN -->
+[Mplus methods notes](https://github.com/lzhs1995/mplus-methods-notes): mediation, moderation and latent transition analysis, with documented examples.
 
 [RUC thesisdown](https://github.com/lzhs1995/RUC-thesisdown) is a **planned** bookdown
 template. Template source files have not been published yet.
@@ -69,9 +67,7 @@ Word 原生修訂，以及程式代理之間的協作。
 
 ### 方法與其他專案
 
-<!-- METHODS_ZH -->
-中介、調節與潛在轉換分析的 Mplus 方法筆記正在整理，將以適合公開的內容發布。
-<!-- /METHODS_ZH -->
+[Mplus 方法筆記](https://github.com/lzhs1995/mplus-methods-notes)：中介、調節與潛在轉換分析，以及附說明的示例。
 
 [人大論文範本](https://github.com/lzhs1995/RUC-thesisdown)為 **bookdown 範本規劃**，
 目前尚未發布範本原始碼。
