@@ -1,6 +1,6 @@
 # Monthly maintenance · 每月維護
 
-[Profile](README.md) · [繁體中文](#繁體中文)
+[Profile](README.md) · [繁體中文](#繁體中文) · [Tool Q&A / 工具問答](https://github.com/lzhs1995/multi-agent-collaboration/discussions)
 
 Use this checklist for a monthly maintainer review and before a release.
 
