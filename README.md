@@ -32,9 +32,7 @@ Each has its own role and version; the preview runs separately from the current 
 [RUC thesisdown](https://github.com/lzhs1995/RUC-thesisdown) is a **planned** bookdown
 template. Template source files have not been published yet.
 
-<!-- PRAGMA_EN -->
-Pragma service repositories are being organized into a dedicated organization.
-<!-- /PRAGMA_EN -->
+[Jui-peng](https://github.com/Jui-peng) is the Pragma engineering space for websites, community services, model services and operations. Projects retain separate repositories.
 
 For installation, supported platforms and limitations, use each project's README
 and versioned releases. Development and preview labels describe work in progress.
@@ -72,9 +70,7 @@ Word 原生修訂，以及程式代理之間的協作。
 [人大論文範本](https://github.com/lzhs1995/RUC-thesisdown)為 **bookdown 範本規劃**，
 目前尚未發布範本原始碼。
 
-<!-- PRAGMA_ZH -->
-Pragma 服務倉庫正在整理至專用組織。
-<!-- /PRAGMA_ZH -->
+[Jui-peng](https://github.com/Jui-peng) 是 Pragma 的工程空間，涵蓋網站、社群服務、模型服務與維運；各專案維持獨立倉庫。
 
 安裝方式、支援平台與限制請以各專案 README 及版本發行紀錄為準。
 標示為開發中或預覽的內容仍在持續驗證。
